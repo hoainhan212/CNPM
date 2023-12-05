@@ -4,26 +4,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tên Dự Án</title>
+    <title>Cong Nghe Phan Mem</title>
 </head>
 <body>
 
 # Tên Dự Án
 
-Mô tả ngắn về dự án của bạn.
+Du An provip
 
 ## Cài Đặt
 
-1. Clone dự án: `git clone https://github.com/ten-du-an.git`
-2. Di chuyển vào thư mục dự án: `cd ten-du-an`
+1. Clone dự án: `git clone https://github.com/congnghephanmem.git`
+2. Di chuyển vào thư mục dự án: `cd cong nghe phan mem`
 
-## Sử Dụng
 
-Mô tả cách sử dụng cơ bản của dự án.
+
+
 
 ## Yêu Cầu
 
-Liệt kê các yêu cầu cần thiết để chạy dự án.
+phai provip moi lam duoc 
 
 ## Đóng Góp
 
@@ -36,7 +36,7 @@ Dự án này được cấp phép theo [tên giấy phép](LICENSE.md).
 ## Liên Hệ
 
 - Tên của bạn
-- Email: example@email.com
+- Email: hoainhandeptrai@123.com
 
 </body>
 </html>
